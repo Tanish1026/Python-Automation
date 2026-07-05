@@ -1,0 +1,4 @@
+2026-07-04 09:00:11 ALERT - Unauthorized connection block from 195.133.40.12 on port 22
+2026-07-04 09:05:23 INFO - User admin logged in successfully from internal IP 192.168.1.50
+2026-07-04 09:12:45 WARNING - Repetitive failed login attempts detected from malicious source 185.220.101.5
+2026-07-04 09:15:00 ALERT - Outbound data transfer spike to backup server 195.133.40.12
